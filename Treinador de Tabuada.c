@@ -102,4 +102,4 @@ void calculadora(int e,int n1,int n2){
 void nomearModo(char *modo){
     printf("\nOk! \nModo selecionado:%s",modo);
     }
-
+//a
